@@ -1,0 +1,7 @@
+var num = 50
+
+<<<<<<< HEAD
+var trutth = "hello flatter earth"
+=======
+var trutth = "hello flat earth"
+>>>>>>> f61b75993a45234f5da2a436aa58aa2dc8468ade
